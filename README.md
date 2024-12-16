@@ -1,4 +1,5 @@
 # My Portfolio
 
-Visit my portfolio site here : (https://github.com/anupseth/my-portfolio.git)
+Visit my portfolio site here : https://anupseth.github.io/my-portfolio/
+
 
